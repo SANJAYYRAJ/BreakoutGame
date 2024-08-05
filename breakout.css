@@ -1,4 +1,6 @@
 body{
+    background-image: url(https://i.imgur.com/10O3I.gif);
+    background-size: cover;
     text-align: center;
 }
 #board{
@@ -6,5 +8,6 @@ body{
     border-top: 5px solid red;
     border-left: 5px solid red;
     border-right: 5px solid red;
-    border-bottom: 5px solid red;
+    border-bottom: 5px solid a;
+    
 }
